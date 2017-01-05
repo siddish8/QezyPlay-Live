@@ -1,0 +1,40 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/optimized-dropdown-"
+"menus\n"
+"POT-Creation-Date: 2014-03-29 15:42:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-03-31 10:38+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: optimized-dm.php:33
+msgid "Optimized Dropdown Menu"
+msgstr "Optimizirani Dropdown meni"
+
+#: optimized-dm.php:35
+msgid "Create a search engine optimized dropdown menu."
+msgstr "Stvoriti optimizirani meni pretraživača  stavi dropdown meni"
+
+#: optimized-dm.php:52
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "Nijedan meni još uvek nije kreiran. <a href=\"%s\">Kretrati neke</a>."
+
+#: optimized-dm.php:57
+msgid "Title:"
+msgstr "Naslov:"
+
+#: optimized-dm.php:61
+msgid "Select Menu:"
+msgstr "Izabrati meni:"
+
+#: optimized-dm.php:76
+msgctxt "<nav>"
+msgid "Use HTML5 %s element?"
+msgstr "Koristiti HTML5 %s element"

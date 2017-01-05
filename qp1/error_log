@@ -1,0 +1,297 @@
+[22-Nov-2016 04:51:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 184
+[22-Nov-2016 05:21:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php:7) in /home/tradmin/public_html/newqezyplay/qp1/db-config.php on line 5
+[22-Nov-2016 05:21:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php:7) in /home/tradmin/public_html/newqezyplay/qp1/db-config.php on line 5
+[24-Nov-2016 05:47:05 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 211
+[24-Nov-2016 05:47:08 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 211
+[24-Nov-2016 05:47:25 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 211
+[24-Nov-2016 05:47:28 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 211
+[24-Nov-2016 07:48:04 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 211
+[24-Nov-2016 07:48:24 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 211
+[24-Nov-2016 07:48:44 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 211
+[24-Nov-2016 07:49:04 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 211
+[24-Nov-2016 07:49:24 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 211
+[24-Nov-2016 07:49:43 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 211
+[24-Nov-2016 08:28:44 UTC] PHP Fatal error:  Call to undefined function get_val() in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 166
+[24-Nov-2016 10:38:02 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/geo-maps.php on line 86
+[24-Nov-2016 10:38:44 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/channel_streaming_status.php on line 23
+[24-Nov-2016 10:38:48 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/channel_streaming_status.php on line 23
+[24-Nov-2016 12:16:56 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/channel_streaming_status.php on line 23
+[25-Nov-2016 09:07:47 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/geo-maps.php on line 86
+[25-Nov-2016 09:07:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/geo-maps.php on line 86
+[25-Nov-2016 09:10:56 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/geo-maps.php on line 86
+[25-Nov-2016 10:16:24 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[25-Nov-2016 10:16:45 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[25-Nov-2016 10:17:05 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[25-Nov-2016 10:17:24 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[25-Nov-2016 10:17:45 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[25-Nov-2016 10:18:05 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[25-Nov-2016 10:18:24 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[25-Nov-2016 10:18:45 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[25-Nov-2016 10:19:05 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[25-Nov-2016 10:19:24 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[25-Nov-2016 10:19:45 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[25-Nov-2016 10:19:48 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/qm_ssm.php on line 10
+[25-Nov-2016 10:19:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/qm_ssm.php on line 10
+[25-Nov-2016 10:19:54 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/qm_ssm.php on line 10
+[25-Nov-2016 10:19:55 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/qm_ssm.php on line 10
+[25-Nov-2016 10:19:57 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/qm_ssm.php on line 10
+[25-Nov-2016 10:20:01 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/qm_ssm.php on line 10
+[25-Nov-2016 10:20:04 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[25-Nov-2016 10:20:05 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/user-enquiries.php on line 211
+[25-Nov-2016 10:20:13 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/user-enquiries.php on line 211
+[25-Nov-2016 10:20:19 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/user-enquiries.php on line 211
+[25-Nov-2016 10:20:25 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[25-Nov-2016 10:39:03 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/tradmin/public_html/newqezyplay/qp1/qm_ssm.php on line 19
+[25-Nov-2016 10:47:52 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ')' in /home/tradmin/public_html/newqezyplay/qp1/qm_ssm.php on line 44
+[28-Nov-2016 06:02:12 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[28-Nov-2016 06:02:29 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[28-Nov-2016 06:02:32 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[28-Nov-2016 06:02:49 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[28-Nov-2016 06:02:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/channel_streaming_status.php on line 23
+[28-Nov-2016 06:02:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[28-Nov-2016 06:02:58 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/function_common.php on line 223
+[28-Nov-2016 06:03:09 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[28-Nov-2016 06:03:12 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[28-Nov-2016 06:03:29 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[28-Nov-2016 06:03:32 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[28-Nov-2016 06:03:49 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[28-Nov-2016 06:03:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[28-Nov-2016 06:03:53 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/channel_streaming_status.php on line 23
+[28-Nov-2016 06:04:09 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[28-Nov-2016 06:04:12 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[28-Nov-2016 06:04:23 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/channel_streaming_status.php on line 23
+[28-Nov-2016 06:04:29 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[28-Nov-2016 06:04:32 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[28-Nov-2016 06:04:33 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/channel_streaming_status.php on line 23
+[28-Nov-2016 06:04:48 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[28-Nov-2016 06:04:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[28-Nov-2016 10:24:41 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/channel_streaming_status.php on line 23
+[28-Nov-2016 10:57:21 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/function_common.php on line 223
+[29-Nov-2016 11:22:58 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/EPG-management.php on line 43
+[29-Nov-2016 12:00:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tradmin/public_html/newqezyplay/qp1/EPG-management.php on line 290
+[29-Nov-2016 12:52:18 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/channel_streaming_status.php on line 23
+[29-Nov-2016 12:52:32 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[29-Nov-2016 12:52:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[29-Nov-2016 12:53:12 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[29-Nov-2016 12:53:32 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/function_common.php on line 223
+[29-Nov-2016 12:53:32 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[29-Nov-2016 12:53:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[29-Nov-2016 12:54:12 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[29-Nov-2016 12:54:32 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[29-Nov-2016 12:54:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[29-Nov-2016 12:55:12 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[29-Nov-2016 12:55:32 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[29-Nov-2016 12:55:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[29-Nov-2016 12:56:12 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[29-Nov-2016 12:56:32 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[29-Nov-2016 12:56:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[29-Nov-2016 12:57:12 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[29-Nov-2016 12:57:32 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[29-Nov-2016 12:57:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[29-Nov-2016 12:58:12 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[29-Nov-2016 12:58:32 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[29-Nov-2016 12:58:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[29-Nov-2016 12:59:12 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:25:17 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:25:24 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/channel_streaming_status.php on line 23
+[30-Nov-2016 12:25:31 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:25:37 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:25:51 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:25:57 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:26:11 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:26:17 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:26:31 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:26:31 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/channel_streaming_status.php on line 23
+[30-Nov-2016 12:26:37 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:26:51 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:26:57 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:27:11 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:27:17 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:27:31 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:27:37 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:27:51 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:27:57 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:28:11 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:28:17 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:28:31 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:28:37 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:28:51 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:28:57 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:29:11 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:29:17 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:29:31 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:29:37 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:29:51 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:29:57 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:30:11 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:30:17 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:30:31 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:30:37 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:30:51 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:30:57 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:31:11 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:31:17 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:31:31 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:31:37 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:31:51 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:31:57 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:32:11 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:32:17 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:32:31 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:32:37 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:32:51 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:32:57 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:33:12 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:33:17 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:33:31 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:33:37 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:33:51 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:33:57 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:34:11 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:34:17 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:34:32 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[30-Nov-2016 12:34:37 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tradmin/public_html/newqezyplay/qp1/uservalidation_check.php on line 229
+[01-Dec-2016 05:16:17 UTC] PHP Warning:  include(header-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin-main3.php on line 72
+[01-Dec-2016 05:16:17 UTC] PHP Warning:  include(): Failed opening 'header-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin-main3.php on line 72
+[01-Dec-2016 05:16:17 UTC] PHP Warning:  include(footer-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin-main3.php on line 188
+[01-Dec-2016 05:16:17 UTC] PHP Warning:  include(): Failed opening 'footer-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin-main3.php on line 188
+[01-Dec-2016 05:16:25 UTC] PHP Warning:  include(function_common_ext.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin4.php on line 8
+[01-Dec-2016 05:16:25 UTC] PHP Warning:  include(): Failed opening 'function_common_ext.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin4.php on line 8
+[01-Dec-2016 05:16:25 UTC] PHP Warning:  include(header-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin4.php on line 18
+[01-Dec-2016 05:16:25 UTC] PHP Warning:  include(): Failed opening 'header-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin4.php on line 18
+[01-Dec-2016 05:16:28 UTC] PHP Warning:  include(footer-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin4.php on line 560
+[01-Dec-2016 05:16:28 UTC] PHP Warning:  include(): Failed opening 'footer-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin4.php on line 560
+[01-Dec-2016 05:16:34 UTC] PHP Warning:  include(header-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/extra_params.php on line 70
+[01-Dec-2016 05:16:34 UTC] PHP Warning:  include(): Failed opening 'header-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/extra_params.php on line 70
+[01-Dec-2016 05:16:34 UTC] PHP Warning:  include(footer-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/extra_params.php on line 89
+[01-Dec-2016 05:16:34 UTC] PHP Warning:  include(): Failed opening 'footer-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/extra_params.php on line 89
+[02-Dec-2016 04:58:23 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/qezyplay/public_html/qp1/home.php on line 94
+[02-Dec-2016 04:58:30 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/qezyplay/public_html/qp1/home.php on line 94
+[02-Dec-2016 04:59:09 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/qezyplay/public_html/qp1/home.php on line 94
+[02-Dec-2016 04:59:11 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/qezyplay/public_html/qp1/home.php on line 94
+[02-Dec-2016 05:03:14 UTC] PHP Warning:  include(theme-header.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/delete_uinfo.php on line 2
+[02-Dec-2016 05:03:14 UTC] PHP Warning:  include(): Failed opening 'theme-header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/delete_uinfo.php on line 2
+[02-Dec-2016 05:03:14 UTC] PHP Warning:  include(theme-footer.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/delete_uinfo.php on line 276
+[02-Dec-2016 05:03:14 UTC] PHP Warning:  include(): Failed opening 'theme-footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/delete_uinfo.php on line 276
+[02-Dec-2016 05:04:29 UTC] PHP Warning:  include(theme-header.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/delete_uinfo.php on line 2
+[02-Dec-2016 05:04:29 UTC] PHP Warning:  include(): Failed opening 'theme-header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/delete_uinfo.php on line 2
+[02-Dec-2016 05:04:29 UTC] PHP Warning:  include(theme-footer.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/delete_uinfo.php on line 276
+[02-Dec-2016 05:04:29 UTC] PHP Warning:  include(): Failed opening 'theme-footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/delete_uinfo.php on line 276
+[02-Dec-2016 05:05:49 UTC] PHP Warning:  include(theme-header.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/delete_uinfo.php on line 2
+[02-Dec-2016 05:05:49 UTC] PHP Warning:  include(): Failed opening 'theme-header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/delete_uinfo.php on line 2
+[02-Dec-2016 05:05:49 UTC] PHP Warning:  include(theme-footer.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/delete_uinfo.php on line 276
+[02-Dec-2016 05:05:49 UTC] PHP Warning:  include(): Failed opening 'theme-footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/delete_uinfo.php on line 276
+[02-Dec-2016 05:05:50 UTC] PHP Warning:  include(theme-header.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/delete_uinfo.php on line 2
+[02-Dec-2016 05:05:50 UTC] PHP Warning:  include(): Failed opening 'theme-header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/delete_uinfo.php on line 2
+[02-Dec-2016 05:05:50 UTC] PHP Warning:  include(theme-footer.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/delete_uinfo.php on line 276
+[02-Dec-2016 05:05:50 UTC] PHP Warning:  include(): Failed opening 'theme-footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/delete_uinfo.php on line 276
+[02-Dec-2016 05:06:00 UTC] PHP Warning:  include(theme-header.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/delete_uinfo.php on line 2
+[02-Dec-2016 05:06:00 UTC] PHP Warning:  include(): Failed opening 'theme-header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/delete_uinfo.php on line 2
+[02-Dec-2016 05:06:00 UTC] PHP Warning:  include(theme-footer.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/delete_uinfo.php on line 276
+[02-Dec-2016 05:06:00 UTC] PHP Warning:  include(): Failed opening 'theme-footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/delete_uinfo.php on line 276
+[02-Dec-2016 05:43:38 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/qezyplay/public_html/qp1/exec_query.php on line 65
+[02-Dec-2016 05:44:34 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/qezyplay/public_html/qp1/exec_query.php on line 65
+[02-Dec-2016 05:44:54 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/qezyplay/public_html/qp1/exec_query.php on line 65
+[02-Dec-2016 07:07:36 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/qezyplay/public_html/qp1/exec_query.php on line 65
+[02-Dec-2016 07:12:50 UTC] PHP Warning:  include(header-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin-main3.php on line 72
+[02-Dec-2016 07:12:50 UTC] PHP Warning:  include(): Failed opening 'header-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin-main3.php on line 72
+[02-Dec-2016 07:12:50 UTC] PHP Warning:  include(footer-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin-main3.php on line 188
+[02-Dec-2016 07:12:50 UTC] PHP Warning:  include(): Failed opening 'footer-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin-main3.php on line 188
+[02-Dec-2016 07:42:49 UTC] PHP Warning:  include(header-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin-main3.php on line 72
+[02-Dec-2016 07:42:49 UTC] PHP Warning:  include(): Failed opening 'header-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin-main3.php on line 72
+[02-Dec-2016 07:42:49 UTC] PHP Warning:  include(footer-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin-main3.php on line 188
+[02-Dec-2016 07:42:49 UTC] PHP Warning:  include(): Failed opening 'footer-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin-main3.php on line 188
+[02-Dec-2016 07:53:27 UTC] PHP Warning:  include(header-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin-main3.php on line 77
+[02-Dec-2016 07:53:27 UTC] PHP Warning:  include(): Failed opening 'header-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin-main3.php on line 77
+[02-Dec-2016 07:53:48 UTC] PHP Warning:  include(header-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin-main3.php on line 77
+[02-Dec-2016 07:53:48 UTC] PHP Warning:  include(): Failed opening 'header-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin-main3.php on line 77
+[02-Dec-2016 08:02:13 UTC] PHP Warning:  include(function_common_ext.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin4.php on line 8
+[02-Dec-2016 08:02:13 UTC] PHP Warning:  include(): Failed opening 'function_common_ext.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin4.php on line 8
+[02-Dec-2016 08:02:13 UTC] PHP Warning:  include(header-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin4.php on line 18
+[02-Dec-2016 08:02:13 UTC] PHP Warning:  include(): Failed opening 'header-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin4.php on line 18
+[02-Dec-2016 08:02:16 UTC] PHP Warning:  include(footer-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin4.php on line 560
+[02-Dec-2016 08:02:16 UTC] PHP Warning:  include(): Failed opening 'footer-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin4.php on line 560
+[02-Dec-2016 08:03:50 UTC] PHP Warning:  include(function_common_ext.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin4.php on line 8
+[02-Dec-2016 08:03:50 UTC] PHP Warning:  include(): Failed opening 'function_common_ext.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin4.php on line 8
+[02-Dec-2016 08:03:50 UTC] PHP Warning:  include(header-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin4.php on line 18
+[02-Dec-2016 08:03:50 UTC] PHP Warning:  include(): Failed opening 'header-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin4.php on line 18
+[02-Dec-2016 08:03:53 UTC] PHP Warning:  include(footer-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin4.php on line 562
+[02-Dec-2016 08:03:53 UTC] PHP Warning:  include(): Failed opening 'footer-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin4.php on line 562
+[02-Dec-2016 08:04:56 UTC] PHP Warning:  include(function_common_ext.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin4.php on line 13
+[02-Dec-2016 08:04:56 UTC] PHP Warning:  include(): Failed opening 'function_common_ext.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin4.php on line 13
+[02-Dec-2016 08:11:00 UTC] PHP Warning:  include(header-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/channel_info_management.php on line 103
+[02-Dec-2016 08:11:00 UTC] PHP Warning:  include(): Failed opening 'header-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/channel_info_management.php on line 103
+[02-Dec-2016 08:11:00 UTC] PHP Warning:  include(footer-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/channel_info_management.php on line 303
+[02-Dec-2016 08:11:00 UTC] PHP Warning:  include(): Failed opening 'footer-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/channel_info_management.php on line 303
+[14-Dec-2016 10:05:47 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/qezyplay/public_html/qp1/promocodes-groups.php on line 400
+[16-Dec-2016 09:58:44 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/qezyplay/public_html/qp1/admin-statistics-all.php on line 34
+[16-Dec-2016 11:14:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/qezyplay/public_html/qp1/function_common.php on line 308
+[16-Dec-2016 11:14:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/qezyplay/public_html/qp1/function_common.php on line 308
+[16-Dec-2016 11:46:36 UTC] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING) in /home/qezyplay/public_html/qp1/admin-statistics-by-channel.php on line 32
+[16-Dec-2016 11:46:39 UTC] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING) in /home/qezyplay/public_html/qp1/admin-statistics-by-channel.php on line 32
+[17-Dec-2016 14:25:51 UTC] PHP Warning:  include(header-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin_bouquet_management.php on line 280
+[17-Dec-2016 14:25:51 UTC] PHP Warning:  include(): Failed opening 'header-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin_bouquet_management.php on line 280
+[17-Dec-2016 14:25:51 UTC] PHP Warning:  include(footer-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin_bouquet_management.php on line 624
+[17-Dec-2016 14:25:51 UTC] PHP Warning:  include(): Failed opening 'footer-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin_bouquet_management.php on line 624
+[27-Dec-2016 05:26:51 UTC] PHP Parse error:  syntax error, unexpected 'goto' (T_GOTO), expecting ',' or ';' in /home/qezyplay/public_html/qp1/user-enquiries.php on line 298
+[27-Dec-2016 06:19:05 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/qezyplay/public_html/qp1/user-enquiries.php on line 122
+[27-Dec-2016 08:41:55 UTC] PHP Warning:  Division by zero in /home/qezyplay/public_html/qp1/user-enquiries.php on line 193
+[27-Dec-2016 08:41:55 UTC] PHP Warning:  Division by zero in /home/qezyplay/public_html/qp1/user-enquiries.php on line 312
+[27-Dec-2016 08:43:10 UTC] PHP Warning:  Division by zero in /home/qezyplay/public_html/qp1/user-enquiries.php on line 193
+[27-Dec-2016 08:43:10 UTC] PHP Warning:  Division by zero in /home/qezyplay/public_html/qp1/user-enquiries.php on line 312
+[27-Dec-2016 08:43:56 UTC] PHP Warning:  Division by zero in /home/qezyplay/public_html/qp1/user-enquiries.php on line 193
+[27-Dec-2016 08:43:56 UTC] PHP Warning:  Division by zero in /home/qezyplay/public_html/qp1/user-enquiries.php on line 312
+[27-Dec-2016 08:45:09 UTC] PHP Warning:  Division by zero in /home/qezyplay/public_html/qp1/user-enquiries.php on line 193
+[27-Dec-2016 08:45:09 UTC] PHP Warning:  Division by zero in /home/qezyplay/public_html/qp1/user-enquiries.php on line 312
+[27-Dec-2016 09:48:57 UTC] PHP Warning:  include(header-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/extra_params.php on line 70
+[27-Dec-2016 09:48:57 UTC] PHP Warning:  include(): Failed opening 'header-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/extra_params.php on line 70
+[27-Dec-2016 09:48:57 UTC] PHP Warning:  include(footer-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/extra_params.php on line 89
+[27-Dec-2016 09:48:57 UTC] PHP Warning:  include(): Failed opening 'footer-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/extra_params.php on line 89
+[27-Dec-2016 09:49:05 UTC] PHP Warning:  include(header-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/channel_info_management.php on line 103
+[27-Dec-2016 09:49:05 UTC] PHP Warning:  include(): Failed opening 'header-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/channel_info_management.php on line 103
+[27-Dec-2016 09:49:05 UTC] PHP Warning:  include(footer-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/channel_info_management.php on line 303
+[27-Dec-2016 09:49:05 UTC] PHP Warning:  include(): Failed opening 'footer-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/channel_info_management.php on line 303
+[27-Dec-2016 09:49:29 UTC] PHP Warning:  include(header-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin_bouquet_management.php on line 280
+[27-Dec-2016 09:49:29 UTC] PHP Warning:  include(): Failed opening 'header-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin_bouquet_management.php on line 280
+[27-Dec-2016 09:49:29 UTC] PHP Warning:  include(footer-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin_bouquet_management.php on line 624
+[27-Dec-2016 09:49:29 UTC] PHP Warning:  include(): Failed opening 'footer-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin_bouquet_management.php on line 624
+[27-Dec-2016 12:31:16 UTC] PHP Parse error:  syntax error, unexpected 'fa' (T_STRING), expecting ',' or ';' in /home/qezyplay/public_html/qp1/admin-statistics-all.php on line 290
+[28-Dec-2016 04:36:59 UTC] PHP Warning:  include(header-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/extra_params.php on line 70
+[28-Dec-2016 04:36:59 UTC] PHP Warning:  include(): Failed opening 'header-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/extra_params.php on line 70
+[28-Dec-2016 04:36:59 UTC] PHP Warning:  include(footer-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/extra_params.php on line 89
+[28-Dec-2016 04:36:59 UTC] PHP Warning:  include(): Failed opening 'footer-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/extra_params.php on line 89
+[28-Dec-2016 04:40:59 UTC] PHP Warning:  include(header-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/extra-params.php on line 71
+[28-Dec-2016 04:40:59 UTC] PHP Warning:  include(): Failed opening 'header-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/extra-params.php on line 71
+[28-Dec-2016 05:25:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/qezyplay/public_html/qp1/admin-extra-analytics.php on line 172
+[28-Dec-2016 06:09:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/qezyplay/public_html/qp1/admin-extra-analytics.php on line 98
+[29-Dec-2016 05:36:17 UTC] PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in /home/qezyplay/public_html/qp1/home.php on line 184
+[29-Dec-2016 05:36:29 UTC] PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in /home/qezyplay/public_html/qp1/home.php on line 184
+[29-Dec-2016 05:37:19 UTC] PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in /home/qezyplay/public_html/qp1/home.php on line 184
+[29-Dec-2016 05:37:19 UTC] PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in /home/qezyplay/public_html/qp1/home.php on line 184
+[29-Dec-2016 05:37:19 UTC] PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in /home/qezyplay/public_html/qp1/home.php on line 184
+[29-Dec-2016 05:37:31 UTC] PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in /home/qezyplay/public_html/qp1/home.php on line 184
+[29-Dec-2016 05:37:31 UTC] PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in /home/qezyplay/public_html/qp1/home.php on line 184
+[29-Dec-2016 05:37:31 UTC] PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in /home/qezyplay/public_html/qp1/home.php on line 184
+[29-Dec-2016 05:38:22 UTC] PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in /home/qezyplay/public_html/qp1/home.php on line 184
+[29-Dec-2016 05:38:33 UTC] PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in /home/qezyplay/public_html/qp1/home.php on line 184
+[29-Dec-2016 05:39:24 UTC] PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in /home/qezyplay/public_html/qp1/home.php on line 184
+[29-Dec-2016 05:39:53 UTC] PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in /home/qezyplay/public_html/qp1/home.php on line 184
+[29-Dec-2016 05:40:27 UTC] PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in /home/qezyplay/public_html/qp1/home.php on line 184
+[29-Dec-2016 05:40:27 UTC] PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in /home/qezyplay/public_html/qp1/home.php on line 184
+[03-Jan-2017 07:25:34 UTC] PHP Warning:  include(header-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/channel_info_management.php on line 103
+[03-Jan-2017 07:25:34 UTC] PHP Warning:  include(): Failed opening 'header-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/channel_info_management.php on line 103
+[03-Jan-2017 07:25:34 UTC] PHP Warning:  include(footer-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/channel_info_management.php on line 303
+[03-Jan-2017 07:25:34 UTC] PHP Warning:  include(): Failed opening 'footer-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/channel_info_management.php on line 303
+[03-Jan-2017 07:28:59 UTC] PHP Warning:  require(../qp/phpxmlrpc-4.0.0/lib/xmlrpc.inc): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/Ad-channel-management.php on line 11
+[03-Jan-2017 07:28:59 UTC] PHP Fatal error:  require(): Failed opening required '../qp/phpxmlrpc-4.0.0/lib/xmlrpc.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/Ad-channel-management.php on line 11
+[03-Jan-2017 07:31:01 UTC] PHP Warning:  include(header-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/channel_info_management.php on line 103
+[03-Jan-2017 07:31:01 UTC] PHP Warning:  include(): Failed opening 'header-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/channel_info_management.php on line 103
+[03-Jan-2017 07:31:01 UTC] PHP Warning:  include(footer-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/channel_info_management.php on line 303
+[03-Jan-2017 07:31:01 UTC] PHP Warning:  include(): Failed opening 'footer-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/channel_info_management.php on line 303
+[03-Jan-2017 07:31:07 UTC] PHP Warning:  include(header-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin_bouquet_management.php on line 280
+[03-Jan-2017 07:31:07 UTC] PHP Warning:  include(): Failed opening 'header-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin_bouquet_management.php on line 280
+[03-Jan-2017 07:31:07 UTC] PHP Warning:  include(footer-admin.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/qp1/admin_bouquet_management.php on line 624
+[03-Jan-2017 07:31:07 UTC] PHP Warning:  include(): Failed opening 'footer-admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/qp1/admin_bouquet_management.php on line 624
+[03-Jan-2017 09:16:45 UTC] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/qezyplay/public_html/qp1/admin-bouquet-management.php on line 426
+[03-Jan-2017 11:29:02 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/qezyplay/public_html/qp1/admin-bouquet-management.php on line 393
+[03-Jan-2017 11:30:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/qezyplay/public_html/qp1/admin-bouquet-management.php on line 393

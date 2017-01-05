@@ -1,0 +1,325 @@
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001Array
+(
+    [id] => 9482
+    [0] => 9482
+    [start_datetime] => 2016-09-06 10:41:05
+    [1] => 2016-09-06 10:41:05
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 395
+    [1] => 2016-09-06 10:47:40
+    [2] => 9482
+)
+1Array
+(
+    [id] => 9479
+    [0] => 9479
+    [start_datetime] => 2016-09-06 10:35:53
+    [1] => 2016-09-06 10:35:53
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 721
+    [1] => 2016-09-06 10:47:54
+    [2] => 9479
+)
+1Array
+(
+    [id] => 9372
+    [0] => 9372
+    [start_datetime] => 2016-09-05 21:06:33
+    [1] => 2016-09-05 21:06:33
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 49292
+    [1] => 2016-09-06 10:48:05
+    [2] => 9372
+)
+1Array
+(
+    [id] => 9463
+    [0] => 9463
+    [start_datetime] => 2016-09-06 09:38:06
+    [1] => 2016-09-06 09:38:06
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 4199
+    [1] => 2016-09-06 10:48:05
+    [2] => 9463
+)
+1Array
+(
+    [id] => 9464
+    [0] => 9464
+    [start_datetime] => 2016-09-06 09:38:09
+    [1] => 2016-09-06 09:38:09
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 4200
+    [1] => 2016-09-06 10:48:09
+    [2] => 9464
+)
+1Array
+(
+    [id] => 9482
+    [0] => 9482
+    [start_datetime] => 2016-09-06 10:41:05
+    [1] => 2016-09-06 10:41:05
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 425
+    [1] => 2016-09-06 10:48:10
+    [2] => 9482
+)
+1Array
+(
+    [id] => 9479
+    [0] => 9479
+    [start_datetime] => 2016-09-06 10:35:53
+    [1] => 2016-09-06 10:35:53
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 751
+    [1] => 2016-09-06 10:48:24
+    [2] => 9479
+)
+1Array
+(
+    [id] => 9372
+    [0] => 9372
+    [start_datetime] => 2016-09-05 21:06:33
+    [1] => 2016-09-05 21:06:33
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 49322
+    [1] => 2016-09-06 10:48:35
+    [2] => 9372
+)
+1Array
+(
+    [id] => 9463
+    [0] => 9463
+    [start_datetime] => 2016-09-06 09:38:06
+    [1] => 2016-09-06 09:38:06
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 4230
+    [1] => 2016-09-06 10:48:36
+    [2] => 9463
+)
+1Array
+(
+    [id] => 9464
+    [0] => 9464
+    [start_datetime] => 2016-09-06 09:38:09
+    [1] => 2016-09-06 09:38:09
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 4230
+    [1] => 2016-09-06 10:48:39
+    [2] => 9464
+)
+1Array
+(
+    [id] => 9482
+    [0] => 9482
+    [start_datetime] => 2016-09-06 10:41:05
+    [1] => 2016-09-06 10:41:05
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 455
+    [1] => 2016-09-06 10:48:40
+    [2] => 9482
+)
+1Array
+(
+    [id] => 9479
+    [0] => 9479
+    [start_datetime] => 2016-09-06 10:35:53
+    [1] => 2016-09-06 10:35:53
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 781
+    [1] => 2016-09-06 10:48:54
+    [2] => 9479
+)
+1Array
+(
+    [id] => 9372
+    [0] => 9372
+    [start_datetime] => 2016-09-05 21:06:33
+    [1] => 2016-09-05 21:06:33
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 49352
+    [1] => 2016-09-06 10:49:05
+    [2] => 9372
+)
+1Array
+(
+    [id] => 9463
+    [0] => 9463
+    [start_datetime] => 2016-09-06 09:38:06
+    [1] => 2016-09-06 09:38:06
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 4259
+    [1] => 2016-09-06 10:49:05
+    [2] => 9463
+)
+1Array
+(
+    [id] => 9464
+    [0] => 9464
+    [start_datetime] => 2016-09-06 09:38:09
+    [1] => 2016-09-06 09:38:09
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 4260
+    [1] => 2016-09-06 10:49:09
+    [2] => 9464
+)
+1Array
+(
+    [id] => 9482
+    [0] => 9482
+    [start_datetime] => 2016-09-06 10:41:05
+    [1] => 2016-09-06 10:41:05
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 485
+    [1] => 2016-09-06 10:49:10
+    [2] => 9482
+)
+1Array
+(
+    [id] => 9479
+    [0] => 9479
+    [start_datetime] => 2016-09-06 10:35:53
+    [1] => 2016-09-06 10:35:53
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 811
+    [1] => 2016-09-06 10:49:24
+    [2] => 9479
+)
+1Array
+(
+    [id] => 9463
+    [0] => 9463
+    [start_datetime] => 2016-09-06 09:38:06
+    [1] => 2016-09-06 09:38:06
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 4289
+    [1] => 2016-09-06 10:49:35
+    [2] => 9463
+)
+1Array
+(
+    [id] => 9372
+    [0] => 9372
+    [start_datetime] => 2016-09-05 21:06:33
+    [1] => 2016-09-05 21:06:33
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 49383
+    [1] => 2016-09-06 10:49:36
+    [2] => 9372
+)
+1Array
+(
+    [id] => 9482
+    [0] => 9482
+    [start_datetime] => 2016-09-06 10:41:05
+    [1] => 2016-09-06 10:41:05
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 513
+    [1] => 2016-09-06 10:49:38
+    [2] => 9482
+)
+1Array
+(
+    [id] => 9464
+    [0] => 9464
+    [start_datetime] => 2016-09-06 09:38:09
+    [1] => 2016-09-06 09:38:09
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 4290
+    [1] => 2016-09-06 10:49:39
+    [2] => 9464
+)
+1Array
+(
+    [id] => 9479
+    [0] => 9479
+    [start_datetime] => 2016-09-06 10:35:53
+    [1] => 2016-09-06 10:35:53
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 841
+    [1] => 2016-09-06 10:49:54
+    [2] => 9479
+)
+1Array
+(
+    [id] => 9372
+    [0] => 9372
+    [start_datetime] => 2016-09-05 21:06:33
+    [1] => 2016-09-05 21:06:33
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 49412
+    [1] => 2016-09-06 10:50:05
+    [2] => 9372
+)
+1Array
+(
+    [id] => 9463
+    [0] => 9463
+    [start_datetime] => 2016-09-06 09:38:06
+    [1] => 2016-09-06 09:38:06
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 4319
+    [1] => 2016-09-06 10:50:05
+    [2] => 9463
+)
+1Array
+(
+    [id] => 9464
+    [0] => 9464
+    [start_datetime] => 2016-09-06 09:38:09
+    [1] => 2016-09-06 09:38:09
+)
+UPDATE visitors_info SET duration = ?, end_datetime = ? WHERE id = ?Array
+(
+    [0] => 4320
+    [1] => 2016-09-06 10:50:09
+    [2] => 9464
+)

@@ -1,0 +1,1 @@
+[03-Oct-2016 11:57:32 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/qezyplay/public_html/qp/my_theme/function_common.php on line 223

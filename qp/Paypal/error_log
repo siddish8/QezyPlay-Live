@@ -1,0 +1,30 @@
+
+[16-May-2016 09:31:43 UTC] PHP Warning:  mysql_connect(): Access denied for user 'tradmin'@'localhost' (using password: NO) in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 105
+[16-May-2016 09:31:43 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'tradmin'@'localhost' (using password: NO) in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 106
+[16-May-2016 09:31:43 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 106
+[16-May-2016 09:42:49 UTC] PHP Warning:  mysql_connect(): Access denied for user 'tradmin'@'localhost' (using password: NO) in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 105
+[16-May-2016 09:42:49 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'tradmin'@'localhost' (using password: NO) in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 106
+[16-May-2016 09:42:49 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 106
+[16-May-2016 09:53:10 UTC] PHP Warning:  mysql_connect(): Access denied for user 'tradmin'@'localhost' (using password: NO) in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 105
+[16-May-2016 09:53:10 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'tradmin'@'localhost' (using password: NO) in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 106
+[16-May-2016 09:53:10 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 106
+[16-May-2016 10:04:20 UTC] PHP Warning:  mysql_connect(): Access denied for user 'tradmin'@'localhost' (using password: NO) in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 105
+[16-May-2016 10:04:20 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'tradmin'@'localhost' (using password: NO) in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 106
+[16-May-2016 10:04:20 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 106
+[16-May-2016 10:04:20 UTC] PHP Fatal error:  Call to a member function add() on a non-object in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 215
+[16-May-2016 10:18:14 UTC] PHP Warning:  mysql_connect(): Access denied for user 'tradmin'@'localhost' (using password: NO) in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 105
+[16-May-2016 10:18:14 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'tradmin'@'localhost' (using password: NO) in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 106
+[16-May-2016 10:18:14 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 106
+[16-May-2016 10:18:14 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 241
+[16-May-2016 10:25:40 UTC] PHP Warning:  mysql_connect(): Access denied for user 'tradmin'@'localhost' (using password: NO) in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 105
+[16-May-2016 10:25:40 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'tradmin'@'localhost' (using password: NO) in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 106
+[16-May-2016 10:25:40 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 106
+[16-May-2016 10:39:30 UTC] PHP Warning:  mysql_connect(): Access denied for user 'tradmin'@'localhost' (using password: NO) in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 105
+[16-May-2016 10:39:30 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'tradmin'@'localhost' (using password: NO) in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 106
+[16-May-2016 10:39:30 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 106
+[01-Jun-2016 08:31:56 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 101
+[01-Jun-2016 08:33:17 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 101
+[01-Jun-2016 08:37:40 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 101
+[01-Jun-2016 08:56:36 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 101
+[01-Jun-2016 09:35:53 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 101
+[01-Jun-2016 09:36:39 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/tradmin/public_html/demoqezyplay/qp/Paypal/payments.php on line 101

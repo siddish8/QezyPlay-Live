@@ -1,0 +1,40 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/optimized-dropdown-"
+"menus\n"
+"POT-Creation-Date: 2014-03-29 15:42:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-04-02 11:00+0100\n"
+"Last-Translator: jelena kovacevic <jecajeca260@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: optimized-dm.php:33
+msgid "Optimized Dropdown Menu"
+msgstr "Optimized Dropdown Menu"
+
+#: optimized-dm.php:35
+msgid "Create a search engine optimized dropdown menu."
+msgstr "Crear un menú desplegable optimizado para los buscadores."
+
+#: optimized-dm.php:52
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "No se han creado menús aún. <a href=\"%s\">Cree algunos</a>."
+
+#: optimized-dm.php:57
+msgid "Title:"
+msgstr "Título:"
+
+#: optimized-dm.php:61
+msgid "Select Menu:"
+msgstr "Seleccionar Menú:"
+
+#: optimized-dm.php:76
+msgctxt "<nav>"
+msgid "Use HTML5 %s element?"
+msgstr "¿Usar elemento %s HTML5?"

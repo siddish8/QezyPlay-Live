@@ -1,0 +1,473 @@
+﻿
+delay from level:
+delay from level2:0
+delay from carried plan:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:0Agent:0Total0
+change:Delay:
+Delay Exists: 1 so start date is :2016-08-19T0:0:0start date:2016-08-19T0:0:0Final Delay1:1
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:0Agent:0Total0
+change:Delay:
+Delay 0: so start date is today i.e.,2016-08-18 09:48:36start date:2016-08-18 09:48:36Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:184
+Inside the IF--:
+COunt:2Agent:0Total2
+change:1Delay:184
+Delay Exists: 184 so start date is :2017-02-18T0:0:0start date:2017-02-18T0:0:0Final Delay1:184
+delay from level:
+delay from level2:0
+delay from carried plan:7
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:7
+Delay Exists: 7 so start date is :2016-08-25T0:0:0start date:2016-08-25T0:0:0Final Delay1:7
+delay from level:
+delay from level2:0
+delay from carried plan:7
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:7
+Delay Exists: 7 so start date is :2016-08-25T0:0:0start date:2016-08-25T0:0:0Final Delay1:7
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:0Agent:0Total0
+change:Delay:
+Delay 0: so start date is today i.e.,2016-08-18 10:04:08start date:2016-08-18 10:04:08Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:0Agent:0Total0
+change:Delay:
+Delay 0: so start date is today i.e.,2016-08-18 10:05:03start date:2016-08-18 10:05:03Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:0Agent:0Total0
+change:Delay:
+Delay 0: so start date is today i.e.,2016-08-18T0:0:0start date:2016-08-18T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:0Agent:0Total0
+change:Delay:
+Delay 0: so start date is today i.e.,2016-08-18T0:0:0start date:2016-08-18T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:0Agent:0Total0
+change:Delay:
+Delay 0: so start date is today i.e.,2016-08-18T0:0:0start date:2016-08-18T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:0Agent:0Total0
+change:Delay:
+Delay 0: so start date is today i.e.,2016-08-18T0:0:0start date:2016-08-18T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:0Agent:0Total0
+change:Delay:
+Delay 0: so start date is today i.e.,2016-09-12T0:0:0start date:2016-09-12T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:179
+Inside the IF--:
+COunt:0Agent:1Total1
+change:1Delay:179
+Delay Exists: 179 so start date is :2017-03-14T0:0:0start date:2017-03-14T0:0:0Final Delay1:179
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:0Agent:0Total0
+change:Delay:
+Delay 0: so start date is today i.e.,2016-09-18T0:0:0start date:2016-09-18T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:0Agent:0Total0
+change:Delay:
+Delay 0: so start date is today i.e.,2016-09-18T0:0:0start date:2016-09-18T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:0Agent:0Total0
+change:Delay:
+Delay 0: so start date is today i.e.,2016-09-18T0:0:0start date:2016-09-18T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:0Agent:0Total0
+change:Delay:
+Delay 0: so start date is today i.e.,2016-09-18T0:0:0start date:2016-09-18T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-09-21T0:0:0start date:2016-09-21T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-09-22T0:0:0start date:2016-09-22T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-09-22T0:0:0start date:2016-09-22T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:137
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:137
+Delay Exists: 137 so start date is :2017-02-18T0:0:0start date:2017-02-18T0:0:0Final Delay1:137
+delay from level:
+delay from level2:0
+delay from carried plan:137
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:137
+Delay Exists: 137 so start date is :2017-02-18T0:0:0start date:2017-02-18T0:0:0Final Delay1:137
+delay from level:
+delay from level2:0
+delay from carried plan:137
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:137
+Delay Exists: 137 so start date is :2017-02-18T0:0:0start date:2017-02-18T0:0:0Final Delay1:137
+delay from level:
+delay from level2:0
+delay from carried plan:119
+Inside the IF--:
+COunt:2Agent:0Total2
+change:1Delay:119
+Delay Exists: 119 so start date is :2017-02-18T0:0:0start date:2017-02-18T0:0:0Final Delay1:119
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-10-22T0:0:0start date:2016-10-22T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:114
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:114
+Delay Exists: 114 so start date is :2017-02-18T0:0:0start date:2017-02-18T0:0:0Final Delay1:114
+delay from level:
+delay from level2:0
+delay from carried plan:28
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:28
+Delay Exists: 28 so start date is :2016-11-30T0:0:0start date:2016-11-30T0:0:0Final Delay1:28
+delay from level:
+delay from level2:0
+delay from carried plan:28
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:28
+Delay Exists: 28 so start date is :2016-11-30T0:0:0start date:2016-11-30T0:0:0Final Delay1:28
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-11-02T0:0:0start date:2016-11-02T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-11-14T0:0:0start date:2016-11-14T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-11-16T0:0:0start date:2016-11-16T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-11-16T0:0:0start date:2016-11-16T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:7
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:7
+Delay Exists: 7 so start date is :2016-12-05T0:0:0start date:2016-12-05T0:0:0Final Delay1:7
+delay from level:
+delay from level2:0
+delay from carried plan:7
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:7
+Delay Exists: 7 so start date is :2016-12-05T0:0:0start date:2016-12-05T0:0:0Final Delay1:7
+delay from level:
+delay from level2:0
+delay from carried plan:7
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:7
+Delay Exists: 7 so start date is :2016-12-05T0:0:0start date:2016-12-05T0:0:0Final Delay1:7
+delay from level:
+delay from level2:0
+delay from carried plan:7
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:7
+Delay Exists: 7 so start date is :2016-12-05T0:0:0start date:2016-12-05T0:0:0Final Delay1:7
+delay from level:
+delay from level2:0
+delay from carried plan:5
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:5
+Delay Exists: 5 so start date is :2016-12-05T0:0:0start date:2016-12-05T0:0:0Final Delay1:5
+delay from level:
+delay from level2:0
+delay from carried plan:5
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:5
+Delay Exists: 5 so start date is :2016-12-05T0:0:0start date:2016-12-05T0:0:0Final Delay1:5
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-11-30T0:0:0start date:2016-11-30T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-12-09T0:0:0start date:2016-12-09T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-12-09T0:0:0start date:2016-12-09T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-12-09T0:0:0start date:2016-12-09T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-12-09T0:0:0start date:2016-12-09T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-12-09T0:0:0start date:2016-12-09T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-12-09T0:0:0start date:2016-12-09T0:0:0Final Delay1:0
+delay from level:2
+delay from level2:2
+delay from carried plan:2
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-12-10T0:0:0start date:2016-12-10T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-12-14T0:0:0start date:2016-12-14T0:0:0Final Delay1:0
+delay from level:2
+delay from level2:2
+delay from carried plan:2
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-12-20T0:0:0start date:2016-12-20T0:0:0Final Delay1:0
+delay from level:2
+delay from level2:2
+delay from carried plan:2
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-12-20T0:0:0start date:2016-12-20T0:0:0Final Delay1:0
+delay from level:2
+delay from level2:2
+delay from carried plan:2
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-12-20T0:0:0start date:2016-12-20T0:0:0Final Delay1:0
+delay from level:2
+delay from level2:2
+delay from carried plan:2
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:232
+Delay Exists: 232 so start date is :2017-08-18T0:0:0start date:2017-08-18T0:0:0Final Delay1:232
+delay from level:2
+delay from level2:2
+delay from carried plan:2
+Inside the IF--:
+COunt:2Agent:0Total2
+change:1Delay:51
+Delay Exists: 51 so start date is :2017-02-18T0:0:0start date:2017-02-18T0:0:0Final Delay1:51
+delay from level:2
+delay from level2:2
+delay from carried plan:2
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:21
+Delay Exists: 21 so start date is :2017-01-19T0:0:0start date:2017-01-19T0:0:0Final Delay1:21
+delay from level:2
+delay from level2:2
+delay from carried plan:2
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:21
+Delay Exists: 21 so start date is :2017-01-19T0:0:0start date:2017-01-19T0:0:0Final Delay1:21
+delay from level:2
+delay from level2:2
+delay from carried plan:2
+Inside the IF--:
+COunt:2Agent:0Total2
+change:1Delay:49
+Delay Exists: 49 so start date is :2017-02-18T0:0:0start date:2017-02-18T0:0:0Final Delay1:49
+delay from level:2
+delay from level2:2
+delay from carried plan:2
+Inside the IF--:
+COunt:2Agent:0Total2
+change:1Delay:49
+Delay Exists: 49 so start date is :2017-02-18T0:0:0start date:2017-02-18T0:0:0Final Delay1:49
+delay from level:
+delay from level2:0
+delay from carried plan:19
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:19
+Delay Exists: 19 so start date is :2017-01-19T0:0:0start date:2017-01-19T0:0:0Final Delay1:19
+delay from level:2
+delay from level2:2
+delay from carried plan:2
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:19
+Delay Exists: 19 so start date is :2017-01-19T0:0:0start date:2017-01-19T0:0:0Final Delay1:19
+delay from level:2
+delay from level2:2
+delay from carried plan:2
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:19
+Delay Exists: 19 so start date is :2017-01-19T0:0:0start date:2017-01-19T0:0:0Final Delay1:19
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-12-31T0:0:0start date:2016-12-31T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:0
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:0
+Delay 0: so start date is today i.e.,2016-12-31T0:0:0start date:2016-12-31T0:0:0Final Delay1:0
+delay from level:2
+delay from level2:2
+delay from carried plan:2
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:19
+Delay Exists: 19 so start date is :2017-01-19T0:0:0start date:2017-01-19T0:0:0Final Delay1:19
+delay from level:2
+delay from level2:2
+delay from carried plan:2
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:19
+Delay Exists: 19 so start date is :2017-01-19T0:0:0start date:2017-01-19T0:0:0Final Delay1:19
+delay from level:2
+delay from level2:2
+delay from carried plan:2
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:19
+Delay Exists: 19 so start date is :2017-01-19T0:0:0start date:2017-01-19T0:0:0Final Delay1:19
+delay from level:2
+delay from level2:2
+delay from carried plan:2
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:19
+Delay Exists: 19 so start date is :2017-01-19T0:0:0start date:2017-01-19T0:0:0Final Delay1:19
+delay from level:2
+delay from level2:2
+delay from carried plan:2
+Inside the IF--:
+COunt:2Agent:0Total2
+change:1Delay:0
+Delay 0: so start date is today i.e.,2017-01-03T0:0:0start date:2017-01-03T0:0:0Final Delay1:0
+delay from level:
+delay from level2:0
+delay from carried plan:7
+Inside the IF--:
+COunt:1Agent:0Total1
+change:1Delay:7
+Delay Exists: 7 so start date is :2017-01-11T0:0:0start date:2017-01-11T0:0:0Final Delay1:7

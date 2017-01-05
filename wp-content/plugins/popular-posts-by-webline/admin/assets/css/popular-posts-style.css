@@ -1,0 +1,11 @@
+.wli_popular_posts-class ul{width:100%; float:left; margin:0px; padding:0px;}
+.wli_popular_posts-class ul li{width:100%; float:left; list-style:none; border-bottom:1px solid #DDD; margin:0px 0px 20px 0px; padding:0px 0px 20px 0px;}
+.wli_popular_posts-class ul li:last-child{border-bottom:0px;}
+.wli_popular_posts-class h2{margin:0 0 30px; padding:0px;}
+.wli_popular_posts-class .post_thumb{float:left;}
+.wli_popular_posts-class .post_thumb img{margin:5px 15px 5px 0px;}
+.wli_popular_posts-class h3{clear:inherit; margin:0px; padding:0px 0px 5px 0px;}
+.wli_popular_posts-class p{font-size:90%; margin:0px; padding:0px 0px 15px 0px;}
+.wli_popular_posts-class .bottom_bar{margin:0px; padding:0px;}
+.wli_popular_posts-class .bottom_bar p{padding:0px; margin:0px;}
+.wli_popular_posts-class .bottom_bar p span{margin-right:10px;}

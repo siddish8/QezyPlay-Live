@@ -1,0 +1,9 @@
+[15-Dec-2016 13:13:28 UTC] PHP Warning:  include(../PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/webservices/includes/common_functions.php on line 181
+[15-Dec-2016 13:13:28 UTC] PHP Warning:  include(): Failed opening '../PHPMailer/class.phpmailer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/webservices/includes/common_functions.php on line 181
+[15-Dec-2016 13:13:28 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/qezyplay/public_html/webservices/includes/common_functions.php on line 184
+[15-Dec-2016 13:18:18 UTC] PHP Warning:  include(../PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/webservices/includes/common_functions.php on line 181
+[15-Dec-2016 13:18:18 UTC] PHP Warning:  include(): Failed opening '../PHPMailer/class.phpmailer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/webservices/includes/common_functions.php on line 181
+[15-Dec-2016 13:18:18 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/qezyplay/public_html/webservices/includes/common_functions.php on line 184
+[15-Dec-2016 13:22:31 UTC] PHP Warning:  include(../PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/qezyplay/public_html/webservices/includes/common_functions.php on line 181
+[15-Dec-2016 13:22:31 UTC] PHP Warning:  include(): Failed opening '../PHPMailer/class.phpmailer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/qezyplay/public_html/webservices/includes/common_functions.php on line 181
+[15-Dec-2016 13:22:31 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/qezyplay/public_html/webservices/includes/common_functions.php on line 184
