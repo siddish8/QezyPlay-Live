@@ -72,9 +72,9 @@ $start_fromC = ($pageC-1) * $num_rec_per_page;
 $start_fromF = ($pageF-1) * $num_rec_per_page;/*/
 
 
-if(isset($_GET['delF'])){
+if(isset($_REQUEST['delF'])){
 
-	$id = $_GET['id'];
+	$id = $_REQUEST['delid'];
 
 	$stmt11 = $dbcon->prepare("DELETE FROM user_feedback WHERE id = ".$id."", array(PDO::ATTR_CURSOR => PDO::CURSOR_SCROLL));
 	$stmt11->execute();
@@ -87,9 +87,9 @@ if(isset($_GET['delF'])){
 	
 }
 
-if(isset($_GET['delC'])){
+if(isset($_REQUEST['delC'])){
 
-	$id = $_GET['id'];
+	$id = $_REQUEST['delid'];
 
 	$stmt11 = $dbcon->prepare("DELETE FROM user_contact WHERE id = ".$id."", array(PDO::ATTR_CURSOR => PDO::CURSOR_SCROLL));
 	$stmt11->execute();
@@ -175,9 +175,9 @@ if(isset($_GET['readC'])){
 			
 <?php
 
-			$sqlT1 = "SELECT * FROM user_contact";
+			$sqlT1 = "SELECT * FROM user_contact order by id DESC";
 			$resT1 = get_all($sqlT1);	
-			$sql1 = "SELECT * FROM user_contact LIMIT " . $start_limitC . "," . ROW_PER_PAGE."";	
+			$sql1 = "SELECT * FROM user_contact order by id DESC LIMIT " . $start_limitC . "," . ROW_PER_PAGE."";	
 			$result1 = get_all($sql1);
 
 			$count=$total_records = count($resT1);  //count number of records
@@ -216,9 +216,9 @@ $total_pages = ceil($total_records / ROW_PER_PAGE);
 				<td style="">'.$phone.'</td>
 				<td style="">'.$address.'</td>
 				<td style="">'.$message.'</td>
-				<td style=""><a class="" style="cursor: pointer;color:#2a85e8 !important" id="readContact-'.$id.'" href="user_forms.php?readC=true&id='.$id.'" title="read" name="Read-'.$id.'" class="button-primary"><!-- img src="'.SITE_URL.'/qp/images/book2.jpg" width="50px" title="Read" --> <em class="fa fa-eye-slash" title="Read"></em> </a>				<a title="Reply" href="mailto:'.$email.'?subject=QezyPlay%20Contact%20Reply&amp;">
+				<td style=""><a class="" style="cursor: pointer;color:#2a85e8 !important" id="readContact-'.$id.'" href="user-enquiries.php?readC=true&id='.$id.'" title="read" name="Read-'.$id.'" class="button-primary"><!-- img src="'.SITE_URL.'/qp/images/book2.jpg" width="50px" title="Read" --> <em class="fa fa-eye-slash" title="Read"></em> </a>				<a title="Reply" href="mailto:'.$email.'?subject=QezyPlay%20Contact%20Reply&amp;">
 <!-- img src="'.SITE_URL.'/qp/images/email-logo.png" width="50px" title="Reply"--> <em class="fa fa-envelope" title="Reply"></em></a>
-				<a class="" style="cursor: pointer;color:#2a85e8 !important;" title="delete" name="removeContact-'.$id.'" id="removeContact-'.$id.'" onclick="callConfirmationC(\'user_forms.php?delC=true&id='.$id.'\');" class="button-secondary"><!-- img src="'.SITE_URL.'/qp/images/remove.jpg" width="37px" title="Remove" --><em class="fa fa-trash-o" title="Remove"></em></a></td>
+				<a class="" style="cursor: pointer;color:#2a85e8 !important;" title="delete" name="removeContact-'.$id.'" id="removeContact-'.$id.'" onclick="callConfirmationC('.$id.');" class="button-secondary"><!-- img src="'.SITE_URL.'/qp/images/remove.jpg" width="37px" title="Remove" --><em class="fa fa-trash-o" title="Remove"></em></a></td>
 				</tr>';
 			 } 
 			
@@ -297,9 +297,9 @@ echo "<a class='link_btn' href='?page=$total_pages&tb=C'>".'>'."</a> "; // Goto 
 
 			<?php
 
-			$sqlT2 = "SELECT * FROM user_feedback";
+			$sqlT2 = "SELECT * FROM user_feedback order by id DESC";
 			$resT2 = get_all($sqlT2);	
-			$sql2 = "SELECT * FROM user_feedback LIMIT " . $start_limitF . "," . ROW_PER_PAGE."";	
+			$sql2 = "SELECT * FROM user_feedback order by id DESC LIMIT " . $start_limitF . "," . ROW_PER_PAGE."";	
 			$result2 = get_all($sql2);	
 
 			$count=$total_records = count($resT2);  //count number of records
@@ -342,10 +342,10 @@ echo "<a class='link_btn' href='?page=$total_pages&tb=C'>".'>'."</a> "; // Goto 
 				<td style="">'.$qezy_platform.'</td>
 				<td style="">'.$channel.'</td>
 				<td style="">'.$message.'</td>
-				<td style="width: 350px;"><a class="" style="cursor: pointer;color:#2a85e8 !important" id="readFeedback-'.$id.'" href="user_forms.php?readF=true&id='.$id.'" title="read" name="Read-'.$id.'" class="button-primary"><em title="Read" class="fa fa-eye-slash"></em></a>
+				<td style="width: 350px;"><a class="" style="cursor: pointer;color:#2a85e8 !important" id="readFeedback-'.$id.'" href="user-enquiries.php?readF=true&id='.$id.'" title="read" name="Read-'.$id.'" class="button-primary"><em title="Read" class="fa fa-eye-slash"></em></a>
 				<a href="mailto:'.$email.'?subject=QezyPlay%20Contact%20Reply&amp;">
 <em class="fa fa-envelope" title="Reply"></em></a>
-				<a class="" style="cursor: pointer;color:#2a85e8 !important" title="delete" name="removeFeedback-'.$id.'" id="removeFeedback-'.$id.'" onclick="callConfirmationF(\'user_forms.php?delF=true&id='.$id.'\');" class="button-secondary"><em class="fa fa-trash-o" title="Remove"></em></a></td>
+				<a class="" style="cursor: pointer;color:#2a85e8 !important" title="delete" name="removeFeedback-'.$id.'" id="removeFeedback-'.$id.'" onclick="callConfirmationF('.$id.');" class="button-secondary"><em class="fa fa-trash-o" title="Remove"></em></a></td>
 				
 				</tr>';
 			 } 
@@ -442,21 +442,59 @@ if($userF==1){
 
 	
 
-	function callConfirmationF(url){
+	function callConfirmationF(id){
 
-		var ans = confirm("Sure, do you want to delete this feedback info?");
-		if(ans){
-			window.location.href = url;
-		}
+		// var ans = confirm("Sure, do you want to delete this feedback info?");
+		// if(ans){
+		// 	window.location.href = url;
+		// }
+		swal({
+ 		title:' ', 
+  text: 'Do you really want to remove this?',
+  type: 'warning',
+  
+  showCancelButton: true,   confirmButtonColor: "#DD6B55",   confirmButtonText: "Remove",   cancelButtonText: "Cancel",  closeOnCancel: true
+},function(){ 
+
+var input1 = $("<input>")
+               .attr("type", "hidden")
+               .attr("name", "delid").val(id);
+var input2 = $("<input>")
+               .attr("type", "hidden")
+               .attr("name", "delF").val(true);
+$('#frm2F').append($(input1));
+$('#frm2F').append($(input2));
+ $("#frm2F").submit();
+
+}); 
 	}
 
 
-	function callConfirmationC(url){
+	function callConfirmationC(id){
 
-		var ans = confirm("Sure, do you want to delete this contact info?");
-		if(ans){
-			window.location.href = url;
-		}
+		// var ans = confirm("Sure, do you want to delete this contact info?");
+		// if(ans){
+		// 	window.location.href = url;
+		// }
+		swal({
+ 		title:' ', 
+  text: 'Do you really want to remove this?',
+  type: 'warning',
+  
+  showCancelButton: true,   confirmButtonColor: "#DD6B55",   confirmButtonText: "Remove",   cancelButtonText: "Cancel",  closeOnCancel: true
+},function(){ 
+
+var input1 = $("<input>")
+               .attr("type", "hidden")
+               .attr("name", "delid").val(id);
+var input2 = $("<input>")
+               .attr("type", "hidden")
+               .attr("name", "delC").val(true);
+$('#frm2C').append($(input1));
+$('#frm2C').append($(input2));
+ $("#frm2C").submit();
+
+}); 
 	}
 
 	setTimeout(function(){

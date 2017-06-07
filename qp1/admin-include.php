@@ -5,15 +5,15 @@ if(isset($_GET['logout'])){
 
 	unset($_SESSION['adminid']);
 
-	header('Location:login.php');
+	header('Location:http://admin.qezyplay.com/qp1/login.php');
 	exit;
 }
 
 
 
 if($_SESSION['adminid'] == ""){
-	
-	header('Location:login.php');
+	$page=urlencode($_SERVER["SERVER_NAME"].$_SERVER["REDIRECT_URL"]);
+	header('Location:login.php?redirect='.$page);
 	exit;
 	
 }

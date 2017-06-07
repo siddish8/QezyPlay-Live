@@ -13,7 +13,7 @@ if($_SESSION['adminid'] != ""){
 
 if(isset($_POST['login'])){
 	
- 	$email = trim($_POST['username']); $authkey = trim($_POST['password']);
+ $email = trim($_POST['username']); $authkey = trim($_POST['password']);
 	
 	$sql1 = "SELECT name FROM admin_portal_users";		
 	try {
@@ -35,6 +35,8 @@ if(isset($_POST['login'])){
 	}catch (PDOException $e){
 		print $e->getMessage();
 	}
+
+	//echo $match;
 
 	if($match==0){		
 		$emailError = 'Entered Username does not exists';
@@ -66,8 +68,13 @@ if(isset($_POST['login'])){
 			$_SESSION['adminlevel'] = $adminlevel;
 
 			//Redirect the user to the next page
-//			header('LOCATION: admin-home.php');	
-			header('Location: home.php'); exit;
+//			header('LOCATION: admin-home.php');
+			if(isset($_REQUEST["redirect"])){
+				header('Location: https://'.$_REQUEST["redirect"]);
+			}else
+				header('Location: home.php');
+			
+			exit;
 
 		}
 
