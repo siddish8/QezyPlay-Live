@@ -12,6 +12,7 @@
 
 /* Includes header file and class file */
 
+include('main-config.php');
 include('qp1/db-config.php');
 include('qp1/function_common.php');
 ?>
@@ -94,6 +95,7 @@ include('qp1/function_common.php');
 </div>
 
  <div class="col-md-4" style="text-align:center">
+ <div id="error"></div>
  <div id="playing"></div>
 <script src="<?php echo SITE_URL ?>/players/octoshape/swfobject.js" type="text/javascript"></script>
 				<script src="<?php echo SITE_URL ?>/players/octoshape/jquery-1.6.1.js" type="text/javascript"></script>
@@ -113,16 +115,9 @@ var player_id = "player";
 
         var player_width = 400;
         var player_height = 250;		
-var player_streams = [					
-					
-					
-					                      
-<?php
-
+var player_streams = [<?php
 foreach($result4 as $row){
-
 echo "{id: ".$row['id'].", stream: '".$row['url']."'},";
-
 }
 ?>
 ];
@@ -159,13 +154,15 @@ var player_jsbridge = {
 function funcOnError(msg, code) {
         
         if(code=="p68"){
+                    document.getElementById("error").innerHTML="Streaming Unavailable:"+window.id;
 					console.log("Streaming Error:"+window.id);
+                    alert("Error");
 					window.err=1;
 	//alert(window.err);
 
         jQuery.ajax({
             type: "POST",
-            url: "http://qezyplay.com/qp1/uservalidation_check",
+            url: "qp1/uservalidation_check",
 
             data: {
                 "action": "setStreamStatus",
@@ -177,7 +174,7 @@ function funcOnError(msg, code) {
 
               // alert(response);
 		console.log(response);
-        window.location.href="http://qezyplay.com/check-streams-bangla.php";
+        window.location.href="../check-streams-bangla.php";
 
                 //$("#msgInHeader").empty().html(response);
             }
@@ -185,6 +182,7 @@ function funcOnError(msg, code) {
 
     }
        else{
+           document.getElementById("responseDiv").innerHTML="Some other Error with code";
            console.log("Some other Error with code: "+code);
            console.log(msg);
        }
@@ -218,7 +216,7 @@ function playStream(id, url) {
 		{
 		jQuery.ajax({
 			    type: "POST",
-			    url: "http://qezyplay.com/qp1/uservalidation_check",
+			    url: "qp1/uservalidation_check",
 
 			    data: {
 				"action": "setStreamStatus",
@@ -230,6 +228,7 @@ function playStream(id, url) {
 
 				//alert(response);
 				console.log(response);
+                document.getElementById("responseDiv").innerHTML=response;
 
 				//$("#msgInHeader").empty().html(response);
 			    }
@@ -258,11 +257,9 @@ function playStream(id, url) {
     return false;
 }
 
-
-
-
 </script>
 <span id="displayDiv"></span>
+<span id="responseDiv"></span>
 </div>
 </div>
 </section>

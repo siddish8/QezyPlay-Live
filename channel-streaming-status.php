@@ -11,7 +11,7 @@
  * *************************************************************** */
 
 /* Includes header file and class file */
-
+include('main-config.php');
 include('qp1/db-config.php');
 include('qp1/function_common.php');
 ?>
@@ -126,7 +126,7 @@ include('qp1/function_common.php');
      
         jQuery.ajax({
             type: "POST",
-            url: "http://qezyplay.com/qp1/uservalidation_check",
+            url: "qp1/uservalidation_check",
 		
             data: { "action" : "setStreamStatus","id" : sent, "status" : statusValue},
 		

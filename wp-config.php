@@ -16,16 +16,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'qezyplay_wordpress');
+define('DB_NAME', 'qezyplay_wp');
 
 /** MySQL database username */
-define('DB_USER', 'qezyplay_word');
+define('DB_USER', 'qezyplay_prod');
 
 /** MySQL database password */
-define('DB_PASSWORD', '&(word_qezyplay)&');
+define('DB_PASSWORD', '&(prod_qezyplay)&');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'ideabytesdb.c6hujshgwzfd.us-east-1.rds.amazonaws.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
